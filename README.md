@@ -39,10 +39,10 @@ name_min_long: 1
 name_max_long: 25
 
 rename_price:
-  "lapis": 10
-  "xp": 30
+  lapis: 10
+  xp: 30
 
 repair_price:
-  "lapis": 10
-  "xp": 10
+  lapis: 10
+  xp": 10
 ```
